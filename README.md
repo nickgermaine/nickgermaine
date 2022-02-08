@@ -12,8 +12,6 @@ I also make music sometimes.
 
 ## Projects
 
-----------
-
 ### Liri Music
 https://github.com/lirios/music
 
